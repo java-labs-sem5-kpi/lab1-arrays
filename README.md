@@ -14,7 +14,7 @@
 - Код повинен відповідати стандартам Java Code Conventions (або Google Java Style Guide) та бути завантаженим на GitHub.
 
 ## Запуск
-- Зклонуйте цей репозиторій на Ваш ПК увівши в терміналі команду: ```git clone https://github.com/sergiorbk/sem5-java-lab1-arrays.git```
+- Cклонуйте цей репозиторій на Ваш ПК увівши в терміналі команду: ```git clone https://github.com/sergiorbk/sem5-java-lab1-arrays.git```
 - Перейдіть у директорію репозиторію ```cd sem5-java-lab1-arrays```
 - Використайте maven для збірки проекту ```mvn clean install```
 - Перейдіть у папку target: ```cd target```
